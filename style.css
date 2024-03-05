@@ -1,0 +1,11 @@
+
+.texto-sombreado {
+    text-shadow: 2px 2px 4px rgba(9, 9, 9, 0.5);
+  }
+
+  .carousel-caption h5{
+    font-size: 80px;
+    color: #0515a8;
+    text-shadow: 2px 2px 2px black;
+}
+
